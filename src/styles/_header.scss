@@ -1,0 +1,17 @@
+.header{
+    &__container{
+        padding: 8px 36px;
+        display: flex; 
+        justify-content: space-between;
+    }
+
+    &__logo{
+        max-width: 80px;
+    }
+
+    &__links{
+        &__item{
+
+        }
+    }
+}
